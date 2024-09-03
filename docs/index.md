@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Peilin Chen"
+  text: "An awesome TA portfolio :)"
+  tagline: "6.1040 Fall 2024"
   actions:
     - theme: brand
       text: Template Repository
